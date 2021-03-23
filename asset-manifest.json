@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Netflix-landing-page/static/css/main.43796652.chunk.css",
+    "main.js": "/Netflix-landing-page/static/js/main.319bd4c2.chunk.js",
+    "main.js.map": "/Netflix-landing-page/static/js/main.319bd4c2.chunk.js.map",
+    "runtime-main.js": "/Netflix-landing-page/static/js/runtime-main.5a5d0933.js",
+    "runtime-main.js.map": "/Netflix-landing-page/static/js/runtime-main.5a5d0933.js.map",
+    "static/js/2.56c42d88.chunk.js": "/Netflix-landing-page/static/js/2.56c42d88.chunk.js",
+    "static/js/2.56c42d88.chunk.js.map": "/Netflix-landing-page/static/js/2.56c42d88.chunk.js.map",
+    "index.html": "/Netflix-landing-page/index.html",
+    "static/css/main.43796652.chunk.css.map": "/Netflix-landing-page/static/css/main.43796652.chunk.css.map",
+    "static/js/2.56c42d88.chunk.js.LICENSE.txt": "/Netflix-landing-page/static/js/2.56c42d88.chunk.js.LICENSE.txt",
+    "static/media/Showcase.css": "/Netflix-landing-page/static/media/bg.33770dcd.jpg",
+    "static/media/tab-content-1.725d9bff.png": "/Netflix-landing-page/static/media/tab-content-1.725d9bff.png",
+    "static/media/tab-content-2-1.1759b88a.png": "/Netflix-landing-page/static/media/tab-content-2-1.1759b88a.png",
+    "static/media/tab-content-2-2.a4a82af1.png": "/Netflix-landing-page/static/media/tab-content-2-2.a4a82af1.png",
+    "static/media/tab-content-2-3.55b6f6b4.png": "/Netflix-landing-page/static/media/tab-content-2-3.55b6f6b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a5d0933.js",
+    "static/js/2.56c42d88.chunk.js",
+    "static/css/main.43796652.chunk.css",
+    "static/js/main.319bd4c2.chunk.js"
+  ]
+}
